@@ -4,5 +4,5 @@ This repository is dedicated for technical and coding interview practice and con
 
 
 ## Search-Sort Algorithms
-   * [Binary search] (https://github.com/AkshayLaddha943/Data_Structures_Algorithms_Python/blob/main/Searching%20and%20Sorting/Binary%20search/Binarysearch.ipynb)
+   * [Binary search](#https://github.com/AkshayLaddha943/Data_Structures_Algorithms_Python/blob/main/Searching%20and%20Sorting/Binary%20search/Binarysearch.ipynb)
 
