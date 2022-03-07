@@ -3,7 +3,6 @@
 This repository contains basic implementation of search-sort algorithms and data structures programmed in Python 3.8
 
 Akshay Laddha
-
 Worcester, MA
 
 ## Search - Sort Algorithms
