@@ -5,6 +5,6 @@ This repository contains basic implementation of search-sort algorithms and data
 Akshay Laddha
 Worcester, MA
 
-## Search - Sort Algorithms
+## Search-Sort Algorithms
    * [Binary search]
 
