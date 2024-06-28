@@ -1,0 +1,12 @@
+Encapsulation is one of the fundamental concepts in object-oriented programming (OOP). It describes the idea of wrapping data and the methods that work on data within one unit. This puts restrictions on accessing variables and methods directly and can prevent the accidental modification of data. To prevent accidental change, an object’s variable can only be changed by an object’s method. Those types of variables are known as private variables.
+
+A class is an example of encapsulation as it encapsulates all the data that is member functions, variables, etc.
+
+Data Abstraction - 
+It hides unnecessary code details from the user. Also,  when we do not want to give out sensitive parts of our code implementation and this is where data abstraction came
+
+super() - 
+A method from a parent class can be called in Python using the super() function. It’s typical practice in object-oriented programming to call the methods of the superclass and enable method overriding and inheritance. Even if the current class has replaced those methods with its own implementation, calling super() allows you to access and use the parent class’s methods. By doing this, you may enhance and modify the parent class’s behavior while still gaining from it.
+
+
+When deciding between protected or private inheritance, it is important to consider your design goals and preferences. Generally, protected inheritance should be used when creating a subclass that is closely related to the base class and needs to access or modify some of its internal attributes or methods. For instance, this type of inheritance could be used to create a subclass of a GUI widget that changes some of its appearance or behavior. Private inheritance should be used when creating a subclass that is not related to the base class by interface, but by implementation. An example of this would be creating a subclass of a data structure that adds extra functionality or optimization, but does not expose the underlying data or methods of the base class. However, if you want to create a subclass that is related to the base class by interface, but not by implementation, then public inheritance should be used, which allows the subclass to access all public members of the base class, or composition can be used, where the subclass has a reference to an instance of the base class as an attribute.
